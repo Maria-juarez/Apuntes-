@@ -1,0 +1,14 @@
+#+title: Apuntes de teoría de gráficas 
+#+author: Perla María Lara Juárez
+* Definición de gráfica
+Una gráfica \(G\) consta de dos conjuntos, uno llamado el conjunto de vértices y otro el conjunto de aristas.
+** Vértices y aristas
+** Orden y tamaño
+** Gráficas regulares
+*** cúbicas
+** Isomorfismo de gráficas
+* Complemento de una gráfica
+
+* Teorema fundamental 
+
+
